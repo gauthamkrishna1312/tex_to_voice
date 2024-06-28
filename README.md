@@ -6,3 +6,9 @@ This python code can convert english tecxt to voice
 ```console
 pip3 install -r requirements.txt
 ```
+
+* Then run the ython file
+
+```consol
+python3 textTovoice.py
+```
